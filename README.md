@@ -54,4 +54,17 @@ src/
 
 ```bash
 git clone https://github.com/USERNAME/call-trash-pi-dapp.git
+npm install
+http://localhost:3000
+Use Case
+
+Lingkungan perumahan
+
+Sekolah & kampus
+
+Kawasan industri
+
+Program CSR perusahaan
+
+Kolaborasi pemerintah daerah
 cd call-trash-pi-dapp
